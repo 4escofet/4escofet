@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4escofet
-- 👀 I’m interested in DB, Python, Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on new small projects as trainee
+- 👀 I’m interested in DB, Python, Data Science, Apps
+- 🌱 I’m just finished my data science carrer path
+- 💞️ I’m looking to apply knowledge into projects
 - 📫 How to reach me ...
 
 <!---

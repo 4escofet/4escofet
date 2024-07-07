@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @4escofet
-- 👀 I’m interested in DB, Python, Data Science, Apps
-- 🌱 I’m just finished my data science carrer path
-- 💞️ I’m looking to apply knowledge into projects
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytics, Data Science, ML, DL, LLMs projects, Python & Apps
+- 🌱 I've economics & bussiness background  
+- 💞️ I’m looking to apply knowledge into RL projects
+- 📫 Reach me on [*linkedin*](https://www.linkedin.com/in/escofet/)
 
 <!---
 4escofet/4escofet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
